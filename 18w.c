@@ -18,6 +18,8 @@ int main()
       if(e==n)
       {
           printf("%d there is an armstrong number ",e);
+       return 0;
+       
 }
 
 }}
